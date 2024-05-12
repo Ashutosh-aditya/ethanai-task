@@ -17,7 +17,7 @@ Follow these steps to set up and run the project:
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone
+    git clone https://github.com/Ashutosh-aditya/ethanai-task
     ```
 
 2. Navigate to the project directory:
